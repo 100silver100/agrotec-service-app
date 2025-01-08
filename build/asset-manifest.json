@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ISV1/static/css/main.29a6fa16.css",
+    "main.js": "/ISV1/static/js/main.3aa3c050.js",
+    "index.html": "/ISV1/index.html",
+    "main.29a6fa16.css.map": "/ISV1/static/css/main.29a6fa16.css.map",
+    "main.3aa3c050.js.map": "/ISV1/static/js/main.3aa3c050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29a6fa16.css",
+    "static/js/main.3aa3c050.js"
+  ]
+}

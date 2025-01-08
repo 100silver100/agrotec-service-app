@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/100silver100/agrotec-service-app/issues"
   },
-  "homepage": "",
+  "homepage": "https://crmtest.agrotec.cz/ISV1",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
